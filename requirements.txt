@@ -1,6 +1,7 @@
 # Core data handling
 pandas
 numpy
+scipy
 
 # File formats
 openpyxl
@@ -8,17 +9,41 @@ openpyxl
 # Visualization (EDA & reporting)
 matplotlib
 seaborn
+plotly
 
 # Time & utilities
 python-dateutil
+holidays
 
 # Jupyter environment
 jupyter
 ipykernel
 
+# Statistical analysis
+statsmodels
+scikit-learn
+
+# Bayesian modeling
+pymc
+arviz
+
+# Dashboard development (for Task 3)
+flask
+flask-cors
+fastapi
+uvicorn
+
+# Frontend API client
+requests
+
 # Validation & helpers
 pyyaml
 tqdm
-pymc
-arviz
-statsmodels
+click
+
+# Data validation
+pydantic
+
+# Additional utilities
+joblib
+psutil
