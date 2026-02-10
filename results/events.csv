@@ -1,0 +1,13 @@
+id,date,name,type,region,severity
+1,1990-08-02,Iraq invades Kuwait,Geopolitical,Middle East,High
+2,1997-11-30,Asian Financial Crisis,Financial,Asia,Medium
+3,2001-09-11,9/11 Attacks,Geopolitical,Global,High
+4,2003-03-20,Iraq War begins,Geopolitical,Middle East,High
+5,2005-08-29,Hurricane Katrina,Natural Disaster,North America,High
+6,2008-09-15,Lehman Brothers Collapse,Financial,Global,High
+7,2011-02-15,Arab Spring,Geopolitical,Middle East,Medium
+8,2014-06-01,Oil Price Crash,Market,Global,High
+9,2015-12-04,OPEC maintains production,Policy,Global,Medium
+10,2016-11-30,OPEC production cuts,Policy,Global,High
+11,2020-03-01,COVID-19 Pandemic,Health,Global,High
+12,2022-02-24,Russia-Ukraine War,Geopolitical,Europe,High
