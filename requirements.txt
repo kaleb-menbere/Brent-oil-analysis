@@ -47,3 +47,7 @@ pydantic
 # Additional utilities
 joblib
 psutil
+
+pymc 
+arviz 
+matplotlib 
