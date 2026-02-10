@@ -175,7 +175,7 @@ const EventImpactView = ({ event }) => {
           </Card.Body>
         </Card>
       </Col>
-      <Col md={4}>
+      <Col md={4}> 
         <Card className="text-center">
           <Card.Body>
             <h6 className="text-muted">Severity</h6>
