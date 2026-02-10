@@ -19,3 +19,6 @@ ipykernel
 # Validation & helpers
 pyyaml
 tqdm
+pymc
+arviz
+statsmodels
